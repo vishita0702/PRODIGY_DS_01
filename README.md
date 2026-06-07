@@ -1,2 +1,8 @@
-# PRODIGY_DS_01
-Task 01: Created a bar chart in Power BI to visualize the distribution of a categorical variable (Gender) using a Titanic  dataset.
+# This project visualizes the distribution of genders in a population dataset using Power BI.
+
+## Tools Used
+- Power BI
+- Kaggle Dataset
+
+## Visualization
+- Bar Chart of Male vs Female Population
